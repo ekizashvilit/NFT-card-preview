@@ -25,7 +25,7 @@ Users should be able to:
 
 ### Screenshot
 
-![Screenshot](nft-card.jpg)
+![Screenshot](/relative/path/to/nft-card.png?raw=true "Optional Title")
 
 ### Links
 
